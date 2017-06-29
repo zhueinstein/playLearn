@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\workSpace\playLearn\conf\application.conf,D:\workSpace\playLearn\target\scala-2.12\classes\application.conf)
+[debug] 	(D:\workSpace\playLearn\conf\logback.xml,D:\workSpace\playLearn\target\scala-2.12\classes\logback.xml)
+[debug] 	(D:\workSpace\playLearn\conf\messages,D:\workSpace\playLearn\target\scala-2.12\classes\messages)
+[debug] 	(D:\workSpace\playLearn\conf\routes,D:\workSpace\playLearn\target\scala-2.12\classes\routes)

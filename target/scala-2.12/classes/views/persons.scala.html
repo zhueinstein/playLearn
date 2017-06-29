@@ -1,0 +1,6 @@
+@(persons: List[String])
+@main("数据库查询"){
+    <ul>
+      @persons.map{msg => <li>@msg</li>}
+    </ul>
+}

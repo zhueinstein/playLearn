@@ -1,0 +1,11 @@
+@import models.Book
+
+@(books:List[Book])
+
+@main("Welcome to Play") {
+  <ul>
+    @books.map{ book =>
+          <li>作者：<span>@book.author</span>书名：<span>@book.name</span></li>
+    }
+  </ul>
+}

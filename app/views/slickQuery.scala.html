@@ -1,0 +1,9 @@
+@(msg: List[String])
+
+@main("slickShow"){
+  <h2>
+    <ul>
+      @msg.map{ name => <li>@name</li>}
+    </ul>
+  </h2>
+}
